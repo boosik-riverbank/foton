@@ -1,6 +1,0 @@
-{
-  "index": "createContractClient",
-  "deploy": "deploy",
-  "write": "write",
-  "read": "read"
-}

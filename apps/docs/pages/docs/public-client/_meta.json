@@ -1,5 +1,0 @@
-{
-  "index": "createPublicClient",
-  "get-balance": "getBalance",
-  "wait-for-transaction": "waitForTransaction"
-}
